@@ -1,0 +1,4 @@
+gtsam:
+  ubuntu:
+    apt:
+      packages: [libgtsam-dev, libgtsam-unstable-dev]
